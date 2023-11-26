@@ -8,6 +8,7 @@ int main (void)
 	{	
 		system("cls");
 		printf("1) Sueldo semanal");
+		printf("1) Sueldo semanal");
 		printf("\n2) Trabajadores de CIA");
 		printf("\n3) Salir");
 		printf("\nElige una opci%cn:\n",162);
